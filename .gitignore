@@ -1,0 +1,10 @@
+# Ignore Data Files (too large for GitHub)
+data/
+
+#Ignore Mac/System junk
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
