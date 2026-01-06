@@ -18,4 +18,4 @@ Predicting the market value of soccer playing using Machine Learning. The goal w
 3.  **Model Selection:** Compared Random Forest vs. XGBoost. XGBoost provided best handling of edge cases.
 
 ### Visuals
-![Model Prediction Chart](actual_vs_predicted_value_scatter.png)
+![Model Prediction Chart](prediction_chart.png)
